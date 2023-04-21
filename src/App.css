@@ -1,0 +1,29 @@
+.caixa {
+    margin-top: 12em;
+    background-color: lightgray;
+    padding: 2em;
+    border-radius: 50px;
+    width: 40em;
+
+}
+
+.imagem {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+img {
+    width: 120px;
+}
+
+.centro {
+    align-items: center;
+}
+.centro {
+    display: flex;
+    justify-content:center;
+}
+main {
+    display: flex;
+    justify-content: center;
+}
